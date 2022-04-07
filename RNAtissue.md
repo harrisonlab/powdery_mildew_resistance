@@ -1,1 +1,1 @@
-cxsgfs
+# RNAseq pipeline
